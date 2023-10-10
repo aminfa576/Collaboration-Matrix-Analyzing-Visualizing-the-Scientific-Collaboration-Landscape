@@ -31,6 +31,7 @@ The project yielded significant insights into the network's structural and dynam
 - NumPy
 
 ## Visuals
+![Community Structure]([https://github.com/your_username/your_repository_name/blob/main/images/community_structure.png](https://github.com/aminfa576/Collaboration-Matrix-Analyzing-Visualizing-the-Scientific-Collaboration-Landscape/blob/ae49c651c12fd67cae2785165c279a01f7aece5a/Disease%20Propagation%20Simulation.png))
 ![Disease Propagation](https://github.com/aminfa576/Collaboration-Matrix-Analyzing-Visualizing-the-Scientific-Collaboration-Landscape/blob/74fce45c5a3e50e921815fe7b84a53b33487a7a8/Distribution%20of%20Avalanche%20Sizes%20in%20Failure%20Propagation%20Model.png)
 
 ## Conclusion
