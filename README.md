@@ -31,6 +31,7 @@ The project yielded significant insights into the network's structural and dynam
 - NumPy
 
 ## Visuals
+![Disease Propagation4](https://github.com/aminfa576/Collaboration-Matrix-Analyzing-Visualizing-the-Scientific-Collaboration-Landscape/blob/c487e5595b4cf9261077e70734b113a9813f3b87/Original%20Network.png)
 
 
 ![Disease Propagation3](https://github.com/aminfa576/Collaboration-Matrix-Analyzing-Visualizing-the-Scientific-Collaboration-Landscape/blob/7c7733ca8578fdb373737cf5093a4517bc2ce6ce/Robustness%20Analysis%20Original%20vs%20Randomized%20Network.png)
