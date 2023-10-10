@@ -32,7 +32,7 @@ The project yielded significant insights into the network's structural and dynam
 
 ## Visuals
 
-![Community Structure](Disease Propagation Simulation.png)
+[![Community Structure](Disease Propagation Simulation.png)](https://github.com/aminfa576/Collaboration-Matrix-Analyzing-Visualizing-the-Scientific-Collaboration-Landscape/blob/main/Disease%20Propagation%20Simulation.png)
 
 
 ## Conclusion
