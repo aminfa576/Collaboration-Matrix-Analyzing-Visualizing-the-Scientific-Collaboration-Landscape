@@ -1,5 +1,5 @@
 # Collaboration-Matrix-Analyzing-Visualizing-the-Scientific-Collaboration-Landscape
-# Collaboration Matrix: Analyzing & Visualizing the Scientific Collaboration Landscape
+
 
 ## Overview
 "Collaboration Matrix" is an engaging exploration into a network depicting scientific collaborations among research authors. The project illuminates the intricate landscape of academic partnerships, providing a detailed analysis and visualization of network structures, robustness, community formations, and dynamic behaviors within the collaboration network.
