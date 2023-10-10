@@ -31,7 +31,7 @@ The project yielded significant insights into the network's structural and dynam
 - NumPy
 
 ## Visuals
-
+![Disease Propagation](https://github.com/aminfa576/Collaboration-Matrix-Analyzing-Visualizing-the-Scientific-Collaboration-Landscape/blob/74fce45c5a3e50e921815fe7b84a53b33487a7a8/Distribution%20of%20Avalanche%20Sizes%20in%20Failure%20Propagation%20Model.png)
 
 ## Conclusion
 "Collaboration Matrix" is a deep and insightful exploration into the world of scientific collaboration networks. Through a series of analytical tasks and simulations, the project unveils the structural and dynamic nuances of academic partnerships. Its findings and insights are indispensable for individuals and entities engaged in network science, graph theory, and related disciplines.
